@@ -14,3 +14,10 @@ header p{
 .principal p{
     color: #fff;
 }
+footer{
+    background: orangered;
+    height: 100px;
+}
+footer p{
+    color: peru;
+}
