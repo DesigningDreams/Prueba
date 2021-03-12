@@ -1,0 +1,8 @@
+header{
+    background: rgba(0, 17, 255, 0.705);
+    height: 200px;
+}
+header p{
+    color: #fff;
+    font-size: 30px;
+}
