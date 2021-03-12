@@ -6,3 +6,11 @@ header p{
     color: #fff;
     font-size: 30px;
 }
+
+.principal{
+    height: 400px;
+    background: orange;
+}
+.principal p{
+    color: #fff;
+}
