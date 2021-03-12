@@ -7,6 +7,13 @@ header p{
     font-size: 30px;
 }
 
+.principal{
+    height: 400px;
+    background: orange;
+}
+.principal p{
+    color: #fff;
+}
 footer{
     background: orangered;
     height: 100px;
